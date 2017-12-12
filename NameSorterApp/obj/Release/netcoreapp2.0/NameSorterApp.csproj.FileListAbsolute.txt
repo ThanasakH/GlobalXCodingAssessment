@@ -1,0 +1,11 @@
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\bin\Release\netcoreapp2.0\NameSorterApp.deps.json
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\bin\Release\netcoreapp2.0\NameSorterApp.runtimeconfig.json
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\bin\Release\netcoreapp2.0\NameSorterApp.runtimeconfig.dev.json
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\bin\Release\netcoreapp2.0\NameSorterApp.dll
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\bin\Release\netcoreapp2.0\NameSorterApp.pdb
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\obj\Release\netcoreapp2.0\NameSorterApp.csproj.CoreCompileInputs.cache
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\obj\Release\netcoreapp2.0\NameSorterApp.AssemblyInfoInputs.cache
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\obj\Release\netcoreapp2.0\NameSorterApp.AssemblyInfo.cs
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\obj\Release\netcoreapp2.0\NameSorterApp.dll
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\obj\Release\netcoreapp2.0\NameSorterApp.pdb
+C:\Users\Tana\source\repos\GlobalXCodingAssessment\NameSorterApp\obj\Release\netcoreapp2.0\NameSorterApp.csprojResolveAssemblyReference.cache

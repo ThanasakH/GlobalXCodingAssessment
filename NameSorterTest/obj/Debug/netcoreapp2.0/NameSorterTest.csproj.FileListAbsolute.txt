@@ -1,0 +1,16 @@
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterTest.deps.json
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterTest.runtimeconfig.json
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterTest.runtimeconfig.dev.json
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterTest.dll
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterTest.pdb
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterApp.dll
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\bin\Debug\netcoreapp2.0\NameSorterApp.pdb
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\obj\Debug\netcoreapp2.0\NameSorterTest.csprojResolveAssemblyReference.cache
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\obj\Debug\netcoreapp2.0\NameSorterTest.csproj.CoreCompileInputs.cache
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\obj\Debug\netcoreapp2.0\NameSorterTest.AssemblyInfoInputs.cache
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\obj\Debug\netcoreapp2.0\NameSorterTest.AssemblyInfo.cs
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\obj\Debug\netcoreapp2.0\NameSorterTest.dll
+c:\users\tana\source\repos\GlobalXCodingAssessment\NameSorterTest\obj\Debug\netcoreapp2.0\NameSorterTest.pdb
