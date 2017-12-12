@@ -22,3 +22,13 @@ The solution should be available for review on github.
 - Minimal, practical documentation should exist.
 
 # Practical Documentation
+NameSorterApp is a project for GlobalXCodingAssessment to sort person name from text file in executing directory. The application supports on <i>Windows10 64bit, Ubuntu.16.10 64bit and OSX 64bit</i>.
+
+1) Open <B>Commond prompt</B>.
+2) Go to <B>Release directory</B> + <B>your operation system</B> </br>
+  <i>(e.g. for Windows10 \NameSorterApp\bin\Release\netcoreapp2.0\win10-x64</br>
+  for Ubuntu.16.10 \NameSorterApp\bin\Release\netcoreapp2.0\ubuntu.16.10-x64</br>
+  for OSX \NameSorterApp\bin\Release\netcoreapp2.0\osx-x64
+  )</i>
+3) Execute command <B>NameSorterApp ./unsorted-names-list.txt</B>.
+4) Check result on <B>screen</B> and <B>sorted-names-list.text</B> in operating directory.
