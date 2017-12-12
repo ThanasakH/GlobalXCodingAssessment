@@ -2791,11 +2791,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tana\\source\\repos\\GlobalXCodingAssessment\\NameSorterApp\\NameSorterApp.csproj",
+      "projectUniqueName": "C:\\Users\\Tana\\github source\\GlobalX\\GlobalXCodingAssessment\\NameSorterApp\\NameSorterApp.csproj",
       "projectName": "NameSorterApp",
-      "projectPath": "C:\\Users\\Tana\\source\\repos\\GlobalXCodingAssessment\\NameSorterApp\\NameSorterApp.csproj",
+      "projectPath": "C:\\Users\\Tana\\github source\\GlobalX\\GlobalXCodingAssessment\\NameSorterApp\\NameSorterApp.csproj",
       "packagesPath": "C:\\Users\\Tana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tana\\source\\repos\\GlobalXCodingAssessment\\NameSorterApp\\obj\\",
+      "outputPath": "C:\\Users\\Tana\\github source\\GlobalX\\GlobalXCodingAssessment\\NameSorterApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
